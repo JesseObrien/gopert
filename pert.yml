@@ -1,0 +1,10 @@
+tasks:
+    - name: "Whup some ass"
+      optimal: 1.0
+      nominal: 1.0
+      pessimistic: 1.0
+    - name: "Herp some derp"
+      optimal: 2.0
+      nominal: 4.2
+      pessimistic: 6
+
